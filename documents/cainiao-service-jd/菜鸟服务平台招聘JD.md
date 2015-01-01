@@ -157,13 +157,13 @@
 ### 如何联系
 
 * 可以通过新浪微博私信与我取得联系
-* 可以将简历投递至[dukun@taobao.com](dukun@taobao.com)，标题标注`菜鸟招聘`
+* 可以将简历投递至[dukun@taobao.com](mailto:dukun@taobao.com)，标题标注`菜鸟招聘`
    
 ### 关于作者
 
 * 姓名：[李夏驰](http://weibo.com/vlinux)
 * 花名：杜琨
-* 邮箱：[dukun@taobao.com](dukun@taobao.com)
+* 邮箱：[dukun@taobao.com](mailto:dukun@taobao.com)
 * 简介：2008年就职福建新大陆软件有限公司，2010年加入淘宝，经历过秒杀、去Oracle、去小型机等大型项目洗礼后，负责淘宝网商品中心。2013年加入菜鸟网络，负责组建菜鸟物流服务平台。
 * 标签：`在线交易系统`、`SHELL脚本控`、`Java`、`追求性能极限的人`
 
