@@ -153,6 +153,10 @@
 8. 请问：菜鸟网络的薪酬体系是否和阿里持平呢？
 
    薪酬问题，面谈～
+   
+8. 请问：工作地点是否在杭州淘宝城？
+
+   是。菜鸟物流服务的技术部BASE在杭州，具体地址是：[杭州文一西路696号阿里巴巴西溪园区淘宝城](http://map.baidu.com/detail?qt=ninf&uid=9506fed65510ed3494031995&wd=%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%A5%BF%E6%BA%AA%E5%9B%AD%E5%8C%BA&b=(13361307.15,3518294;13362342.15,3519141)&from=map&query=%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%A5%BF%E6%BA%AA%E5%9B%AD%E5%8C%BA&qid=9134876889924490543&page_num=0&sfrom=map&detail=life)
 
 ### 如何联系
 
