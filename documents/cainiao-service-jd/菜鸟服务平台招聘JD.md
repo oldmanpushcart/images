@@ -3,6 +3,7 @@
 ### 有关圣诞老人的故事
 
 [圣诞老人的灾难-1](https://raw.githubusercontent.com/oldmanpushcart/images/master/cainiao-jd/001_215550_big.jpg)
+
 [圣诞老人的灾难-2](https://raw.githubusercontent.com/oldmanpushcart/images/master/cainiao-jd/001_215551_big.jpg)
 
 什么？不够资格参加联合国部队！
@@ -165,6 +166,7 @@
  
 ### 其他信息
 * [招聘视频](http://t.cn/Rzud5CT)
+* 片头引用的漫画转自知名漫画家[使徒子](http://www.weibo.com/lastangel17th)
    
 ### 关于作者
 
