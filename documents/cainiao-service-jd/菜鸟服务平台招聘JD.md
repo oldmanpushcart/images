@@ -162,6 +162,7 @@
 
 * 可以通过新浪微博私信与我取得联系
 * 可以将简历投递至[dukun@taobao.com](mailto:dukun@taobao.com)，标题标注`菜鸟招聘`
+* [招聘视频](http://t.cn/Rzud5CT)
    
 ### 关于作者
 
