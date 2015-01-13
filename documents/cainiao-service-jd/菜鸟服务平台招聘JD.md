@@ -157,7 +157,7 @@
    
 8. 请问：工作地点是否在杭州淘宝城？
 
-   是。菜鸟物流服务的技术部BASE在杭州，具体地址是：[杭州文一西路696号阿里巴巴西溪园区淘宝城](http://map.baidu.com/?shareurl=1&poiShareUid=9506fed65510ed3494031995)
+   是。菜鸟物流服务的技术部BASE在杭州，具体地址是：[杭州文一西路969号阿里巴巴西溪园区淘宝城](http://map.baidu.com/?shareurl=1&poiShareUid=9506fed65510ed3494031995)
 
 ### 如何联系
 
