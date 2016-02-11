@@ -1,3 +1,3 @@
 function before(o,a) {
-   o.println(a.clazz.name+"."+a.method.name+"()");    
+   o.println("call from remote: "+a.clazz.name+"."+a.method.name+"()");    
 }
